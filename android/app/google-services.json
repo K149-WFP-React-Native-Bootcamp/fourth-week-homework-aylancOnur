@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "269178818310",
+    "project_id": "ecommercewfp",
+    "storage_bucket": "ecommercewfp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269178818310:android:c388d584f6a4ae4c281887",
+        "android_client_info": {
+          "package_name": "com.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269178818310-ug7a2aj7afju57flbbkv63hvjo85j149.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg_TxKzGTP1mBiCrIPOzFb9cCNlRAAaes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269178818310-ug7a2aj7afju57flbbkv63hvjo85j149.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
